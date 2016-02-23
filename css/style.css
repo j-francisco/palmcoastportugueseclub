@@ -1,0 +1,232 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.main,
+.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Custom page header */
+.header {
+  padding-bottom: 20px;
+  /*border-bottom: 1px solid #e5e5e5;*/
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+
+.header img {
+  margin: 0 auto;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+  font-size: 0.8em;
+}
+
+/* Customize container */
+/*@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}*/
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Supporting main content */
+.main {
+  margin: 30px 0;
+}
+.main p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .main,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+}
+
+.main-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-left: 5px;
+}
+
+.main-menu>li {
+  display: block;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  position: relative;
+}
+
+.main-menu>li.active>a {
+  display: block;
+  content: "";
+  color: white;
+  background-color: #337ab7;
+}
+
+.main-menu>li>a {
+  border-top: 1px solid #f3f3f3;
+  display: block;
+  height: 38px;
+  line-height: 36px;
+  margin: 0;
+  padding: 0 16px 0 7px;
+  -webkit-text-shadow: none !important;
+  text-shadow: none !important;
+  text-decoration: none;
+  color: #737373;
+  z-index: 123;
+  border-radius: 4px;
+}
+
+.main-menu>li>a:hover {
+  color: white;
+  background-color: #337ab7;
+}
+
+.news-list {
+  padding-left: 22px;
+}
+
+.address {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.address > div {
+  padding-left: 10px;
+}
+
+.main-menu-container {
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 991px) {
+  .contact-header {
+    margin-top: 28px;
+  }
+
+  .address-sm {
+    padding-bottom: 20px;
+  }
+
+  .main-menu-container {
+    display: none;
+  }
+
+  .main-menu-container.show {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .menu-toggle {
+    display: none;
+  }
+}
+
+h2.page-heading {
+  margin-top: 5px;
+}
+
+.function-hall-img {
+  height: 200px;
+  width: 267px;
+  margin-bottom: 10px;
+}
+
+.function-hall .img-responsive {
+  margin-bottom: 10px;
+}
+
+
+/* PALMEIRA STYLES */
+
+.palmeira-thumb-container {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.palmeira-thumb-container.latest {
+  text-align: left;
+}
+
+@media screen and (max-width: 767px) {
+  .palmeira-thumb-container {
+    text-align: left;
+  }
+}
+
+.palmeira-thumb {
+  display: inline-block;
+  height: 250px;
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #337ab7;
+  cursor: pointer;
+  position: relative;
+}
+
+.palmeira-thumb:hover {
+  background: #286090;
+}
+
+.palmeira-label {
+  font-weight: bold;
+  color: #337ab7;
+}
+
+.palmeira-hover {
+  transition: opacity 0.5s;
+  background-color: #FFF;
+  opacity: 0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  line-height: 60px;
+  top: 0;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.palmeira-hover span {
+  color: #337ab7;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 45%;
+}
+
+.palmeira-thumb:hover .palmeira-hover {
+  opacity: 0.96;
+}
+
+/* END PALMEIRA STYLES */
