@@ -43,43 +43,47 @@
         <div class="col-md-9">
           <h2 class="page-heading">Palmeira</h2>
 
-          <!-- Latest version: -->
-          <div class="">
-            <div class="palmeira-thumb-container col-xs-12 col-sm-4">
-              <a href="<? echo $latestVersion["url"]; ?>">
-                <div class="palmeira-thumb" style="background: url('<? echo $latestVersion["thumbnail"]; ?>');">
-                  <span class="palmeira-hover">
-                    <span>Click to view</span>
-                  </span>
-                </div>
-              </a>
-              <div class="palmeira-label">
-                <a href="<? echo $latestVersion['url']; ?>"><? echo $latestVersion["name"]; ?></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xs-12 sm-4">
-          </div>
-          <div class="col-xs-12 sm-4">
-          </div>
-
-          <div class="">
-            <? foreach ($oldVersions as $version) { ?>
-              <div class="col-xs-12 col-sm-4 palmeira-thumb-container">
-                <a href="<? echo $version["url"]; ?>">
-                  <div class="palmeira-thumb" style="background: url('<? echo $version["thumbnail"]; ?>');">
+          <div class="palmeiras">
+            <!-- Latest version: -->
+            <div class="row">
+              <div class="palmeira-thumb-container col-xs-12 col-sm-4">
+                <a href="<? echo $latestVersion["url"]; ?>">
+                  <div class="palmeira-thumb" style="background: url('<? echo $latestVersion["thumbnail"]; ?>');">
                     <span class="palmeira-hover">
                       <span>Click to view</span>
                     </span>
                   </div>
                 </a>
                 <div class="palmeira-label">
-                  <a href="<? echo $version['url']; ?>"><? echo $version["name"]; ?></a>
+                  <a href="<? echo $latestVersion['url']; ?>"><? echo $latestVersion["name"]; ?></a>
                 </div>
               </div>
-            <? } ?>
-          </div> 
+
+              <div class="col-xs-12 sm-4">
+              </div>
+              <div class="col-xs-12 sm-4">
+              </div>
+            </div>
+
+            <hr/>
+
+            <div class="row">
+              <? foreach ($oldVersions as $version) { ?>
+                <div class="col-xs-12 col-sm-4 palmeira-thumb-container">
+                  <a href="<? echo $version["url"]; ?>">
+                    <div class="palmeira-thumb" style="background: url('<? echo $version["thumbnail"]; ?>');">
+                      <span class="palmeira-hover">
+                        <span>Click to view</span>
+                      </span>
+                    </div>
+                  </a>
+                  <div class="palmeira-label">
+                    <a href="<? echo $version['url']; ?>"><? echo $version["name"]; ?></a>
+                  </div>
+                </div>
+              <? } ?>
+            </div>
+          </div>
         </div>
       </div>
 
