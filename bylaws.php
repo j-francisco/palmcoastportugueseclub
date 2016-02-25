@@ -16,7 +16,8 @@
         <div class="col-md-9">
           <h2 class="page-heading">Bylaws</h2>
           
-          <iframe id="ByLawsStyle" src="files/BY_LAWS_2012.pdf" width="100%" style="height: 767px;" frameborder="0" scrolling="no"></iframe>
+          <iframe class="visible-lg-block" src="files/BY_LAWS_2012.pdf" width="100%" style="height: 767px;" frameborder="0" scrolling="no"></iframe>
+          <a class="hidden-lg" href="files/BY_LAWS_2012.pdf">Click here to view the Bylaws PDF</a>
         </div>
       </div>
 
