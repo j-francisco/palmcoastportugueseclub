@@ -17,7 +17,7 @@
           <h2 class="page-heading">Picture Gallery</h2>
           
           <div class="iframe-container">
-            <iframe src="NewGallery/index.php" class="gallery-iframe" frameborder="0" ></iframe>
+            <iframe src="v2/NewGallery/index.php" class="gallery-iframe" frameborder="0" ></iframe>
           </div>
         </div>
       </div>
