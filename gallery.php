@@ -16,9 +16,9 @@
         <div class="col-md-9">
           <h2 class="page-heading">Picture Gallery</h2>
           
-          <p>
-            <iframe src="http://www.palmcoastportugueseclub.com/NewGallery/index.php" width="770" height="820" frameborder="0" ></iframe>
-          </p>
+          <div class="iframe-container">
+            <iframe src="NewGallery/index.php" class="gallery-iframe" frameborder="0" ></iframe>
+          </div>
         </div>
       </div>
 
