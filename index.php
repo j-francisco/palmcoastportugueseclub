@@ -20,11 +20,11 @@
           <p>O Portuguese American Cultural Center of Palm Coast, Inc., foi fundado em 1987 e devidamente incorporado segundo as leis do Estado da Flórida, a 4 de Janeiro de 1990, então chamado Portuguese American Club of Palm Coast, Inc., e tem a sua sede própria em 1200 Palm Harbor Parkway, Palm Coast, FL USA e é constituido de pessoas de ambos os sexos e tem por fim o desenvolvimento intelectual, fisico, moral e social dos seus associados pela propagação da lingua, história e cultura Portuguesa.</p>
           <h4>News</h4>
           <ul class="news-list">
+            <li style="list-style-image:url('images/flag.png');"><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_abril_2016"><b>Palmeira - April 2016</b></a> 
+            </li>
             <li style="list-style-image:url('images/flag.png');"><a href="images/direcao_photo.jpg"><b>2016 Corpos Gerentes Photo</b></a> 
             </li>
             <li style="list-style-image:url('images/flag.png');"><a href="files/corpos_gerentes_2016.pdf"><b>2016 Corpos Gerentes</b></a> 
-            </li>
-            <li style="list-style-image:url('images/flag.png');"><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_janeiro_2016/1"><b>Palmeira - January 2016</b></a> 
             </li>
             <li style="list-style-image:url('images/flag.png');"><a href="files/portugal_day_2015_sponsors.pdf">Portugal Day 2015 Sponsors</a> 
             </li>
