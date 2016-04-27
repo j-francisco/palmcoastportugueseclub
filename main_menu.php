@@ -12,7 +12,7 @@
       <a href="function_hall.php"><span class="menu-text">Function Hall</span></a>
     </li>
     <li class="<? if ($page == "gallery") { echo "active"; } ?>">
-      <a href="v2/NewGallery/page/gallery/"><span class="menu-text">Picture Gallery</span></a>
+      <a href="NewGallery/page/gallery/"><span class="menu-text">Picture Gallery</span></a>
     </li>
     <li class="<? if ($page == "palmeira") { echo "active"; } ?>">
       <a href="palmeira.php"><span class="menu-text">Palmeira</span></a>
