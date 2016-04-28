@@ -28,10 +28,6 @@
             </li>
             <li style="list-style-image:url('images/flag.png');"><a href="files/corpos_gerentes_2016.pdf">2016 Corpos Gerentes</a> 
             </li>
-            <li style="list-style-image:url('images/flag.png');"><a href="files/portugal_day_2015_sponsors.pdf">Portugal Day 2015 Sponsors</a> 
-            </li>
-            <li style="list-style-image:url('images/flag.png');"><a href="http://www.palcus.org">Portuguese-American Leadership Council of the US</a> 
-            </li>
             <li style="list-style-image:url('images/flag.png');"><a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 
             </li>
             <li style="list-style-image:url('images/flag.png');"><a href="bylaws.php">Estatutos 2012</a> 
