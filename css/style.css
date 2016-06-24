@@ -260,7 +260,7 @@ h2.page-heading {
 }
 
 .news-list > li {
-  list-style-image:url('images/flag.png');
+  list-style-image:url('../images/flag.png');
 }
 
 /* END PALMEIRA STYLES */
