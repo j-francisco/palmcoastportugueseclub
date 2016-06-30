@@ -21,6 +21,12 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
+              <a href="files/scholarship_app_2016.doc"><b>Scholarship Application</b></a> 
+            </li>
+            <li>
+              <a href="files/bolsas_de_estudo_2016.docx"><b>Bolsas de Estudo 2016</b></a> 
+            </li>
+            <li>
               <a href="images/portugal_day_sponsors_2016.jpg"><b>Portugal Day Sponsors 2016</b></a> 
             </li>
             <li>
