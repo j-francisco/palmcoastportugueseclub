@@ -1,6 +1,6 @@
 <div class="address">
   <img src="images/sign.jpg" alt="Portuguese American Cultural Center of Palm Coast" width="183" height="122" />
-  <div><a href="mailto:pacc@cfl.rr.com">pacc@cfl.rr.com</a></div>
+  <div><a href="mailto:pacc@cfl.rr.com">palmcoastpacc1200@gmail.com</a></div>
   <div>1200 Palm Harbor Parkway</div>
   <div>Palm Coast, FL 32137</div>
   <div>TEL: 386-446-3910</div>
