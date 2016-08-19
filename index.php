@@ -61,13 +61,6 @@
             <div><a href="files/MembershipApplicationPortuguese.doc">Download Portuguese Version</a></div>
           </p>
         </div>
-
-        <!-- <div class="col-md-2">
-          <h4 class="contact-header">Contact:</h4>
-          <p>
-              <a href="mailto:pacc@cfl.rr.com">pacc@cfl.rr.com</a>
-          </p>
-        </div> -->
       </div>
 
       <? include("footer.php"); ?>
