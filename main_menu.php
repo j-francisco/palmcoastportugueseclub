@@ -5,6 +5,9 @@
     <li class="<? if ($page == "home") { echo "active"; } ?>" >
       <a href="./"><span class="menu-text">Home</span></a>
     </li>
+    <li class="<? if ($page == "board") { echo "active"; } ?>">
+      <a href="board.php"><span class="menu-text">Board of Directors</span></a>
+    </li>
     <li class="<? if ($page == "history") { echo "active"; } ?>">
       <a href="history.php"><span class="menu-text">History</span></a>
     </li>
