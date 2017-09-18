@@ -20,6 +20,9 @@
     <li class="<? if ($page == "palmeira") { echo "active"; } ?>">
       <a href="palmeira.php"><span class="menu-text">Palmeira</span></a>
     </li>
+    <li class="<? if ($page == "golf") { echo "active"; } ?>">
+      <a href="golf.php"><span class="menu-text">Golf Classic</span></a>
+    </li>
     <li class="<? if ($page == "bylaws") { echo "active"; } ?>">
       <a href="bylaws.php"><span class="menu-text">Bylaws</span></a>
     </li>

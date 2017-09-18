@@ -264,3 +264,8 @@ h2.page-heading {
 }
 
 /* END PALMEIRA STYLES */
+
+.golf-past-years img {
+  margin-bottom: 30px;
+  border: 1px solid #DDD;
+}
