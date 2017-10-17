@@ -18,7 +18,7 @@
       <a href="NewGallery/page/gallery/"><span class="menu-text">Picture Gallery</span></a>
     </li>
     <li class="<? if ($page == "palmeira") { echo "active"; } ?>">
-      <a href="palmeira.php"><span class="menu-text">Palmeira</span></a>
+      <a href="palmeira.php"><span class="menu-text">Palmeira <span class="hidden-md">Quarterly</span> Newsletter</span></a>
     </li>
     <li class="<? if ($page == "golf") { echo "active"; } ?>">
       <a href="golf.php"><span class="menu-text">Golf Classic</span></a>

@@ -21,13 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
+              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_outubro_2017">Palmeira - October 2017</a></b>
+            </li>
+            <li>
               <b><a href="files/golf_flyers_2017.pdf">Seventh Classic Golf Tournament 2017</a></b>
             </li>
             <li>
               <a href="files/scholarship_app_2017.doc">Scholarship Application 2017</a>
-            </li>
-            <li>
-              <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_july_2017">Palmeira - July 2017</a>
             </li>
             <li>
               <a href="files/bolsas_de_estudo_2016.docx">Bolsas de Estudo 2016</a> 
