@@ -21,7 +21,7 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_outubro_2017">Palmeira Quarterly Newsletter- October 2017</a></b>
+              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2018">Palmeira Quarterly Newsletter - January 2018</a></b>
             </li>
             <li>
               <b><a href="files/golf_flyers_2017.pdf">Seventh Classic Golf Tournament 2017</a></b>

@@ -14,8 +14,9 @@
         </div>
 
         <?
-          $latestVersion = array("name" => "October 2017", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_outubro_2017", "thumbnail" => "images/palmeira_thumbs/october2017_thumb.jpg");
+          $latestVersion = array("name" => "January 2018", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2018", "thumbnail" => "images/palmeira_thumbs/january2018_thumb.jpg");
           $oldVersions = [
+            array("name" => "October 2017", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_outubro_2017", "thumbnail" => "images/palmeira_thumbs/october2017_thumb.jpg"),
             array("name" => "July 2017", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_july_2017", "thumbnail" => "images/palmeira_thumbs/july2017_thumb.jpg"),
             array("name" => "April 2017", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2017", "thumbnail" => "images/palmeira_thumbs/apr2017_thumb.jpg"),
             array("name" => "January 2017", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_janeiro_2017", "thumbnail" => "images/palmeira_thumbs/jan2017_thumb.jpg"),
