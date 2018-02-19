@@ -17,7 +17,8 @@
           <h2 class="page-heading">Annual North/South Golf Classic</h2>
           <br />
           <h4><a href="files/golf_flyers_2017.pdf">Seventh Golf Classic - 2017</a></h4>
-          <br />
+          <a href="images/golf/2017_group_poster.jpg"><img src="images/golf/2017_group_poster.jpg" alt="2017 Golf Classic" class="history-img" /></a>
+          <br /><br />
           <h4>Past Years</h4>
           <div class="golf-past-years">
             <a href="images/golf/2016_group_poster.jpg"><img src="images/golf/2016_group_poster.jpg" alt="2016 Golf Classic" class="history-img" /></a>

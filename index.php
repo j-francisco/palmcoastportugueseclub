@@ -27,7 +27,7 @@
               <b><a href="board.php">2018 Corpos Gerentes</a></b>
             </li>
             <li>
-              <a href="files/golf_flyers_2017.pdf">Seventh Classic Golf Tournament 2017</a>
+              <b><a href="images/golf/2017_group_poster.jpg">Seventh Classic Golf Tournament 2017</a></b>
             </li>
             <li>
               <a href="files/scholarship_app_2017.doc">Scholarship Application 2017</a>
