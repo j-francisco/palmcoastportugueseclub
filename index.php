@@ -24,7 +24,10 @@
               <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2018">Palmeira Quarterly Newsletter - January 2018</a></b>
             </li>
             <li>
-              <b><a href="files/golf_flyers_2017.pdf">Seventh Classic Golf Tournament 2017</a></b>
+              <b><a href="board.php">2018 Corpos Gerentes</a></b>
+            </li>
+            <li>
+              <a href="files/golf_flyers_2017.pdf">Seventh Classic Golf Tournament 2017</a>
             </li>
             <li>
               <a href="files/scholarship_app_2017.doc">Scholarship Application 2017</a>
@@ -34,12 +37,6 @@
             </li>
             <li>
               <a href="images/portugal_day_sponsors_2016.jpg">Portugal Day Sponsors 2016</a> 
-            </li>
-            <li>
-              <a href="images/direcao_photo.jpg">2016 Corpos Gerentes Photo</a> 
-            </li>
-            <li>
-              <a href="files/corpos_gerentes_2016.pdf">2016 Corpos Gerentes</a> 
             </li>
             <li>
               <a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 

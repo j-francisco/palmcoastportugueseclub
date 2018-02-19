@@ -16,7 +16,7 @@
         <div class="col-md-9">
           <h2 class="page-heading">Board of Directors</h2>
           
-          <img src="images/030.JPG" alt="Board of Directors" class="history-img" />
+          <img src="images/corpos_gerentes_2018.jpg" alt="Board of Directors" class="history-img" />
         </div>
       </div>
 
