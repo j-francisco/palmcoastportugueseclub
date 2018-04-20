@@ -21,6 +21,9 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
+              <b><a href="files/scholarship_app_2018.pdf">Scholarship Application 2018</a></b>
+            </li>
+            <li>
               <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2018">Palmeira Quarterly Newsletter - April 2018</a></b>
             </li>
             <li>
@@ -28,9 +31,6 @@
             </li>
             <li>
               <b><a href="images/golf/2017_group_poster.jpg">Seventh Classic Golf Tournament 2017</a></b>
-            </li>
-            <li>
-              <a href="files/scholarship_app_2017.doc">Scholarship Application 2017</a>
             </li>
             <li>
               <a href="files/bolsas_de_estudo_2016.docx">Bolsas de Estudo 2016</a> 
