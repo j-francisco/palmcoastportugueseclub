@@ -21,7 +21,7 @@
           <h4>News</h4>
           <ul class="news-list">
           <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_july_2018">Palmeira Quarterly Newsletter - July 2018</a></b>
+              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoctober2018">Palmeira Quarterly Newsletter - October 2018</a></b>
             </li>
             <li>
               <b><a href="files/scholarship_app_2018.pdf">Scholarship Application 2018</a></b>
