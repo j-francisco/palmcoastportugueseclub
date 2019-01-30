@@ -27,18 +27,6 @@
               <b><a href="board.php">2019 Corpos Gerentes</a></b>
             </li>
             <li>
-              <a href="files/scholarship_app_2018.pdf">Scholarship Application 2018</a>
-            </li>
-            <li>
-              <a href="images/golf/2017_group_poster.jpg">Seventh Classic Golf Tournament 2017</a>
-            </li>
-            <li>
-              <a href="files/bolsas_de_estudo_2016.docx">Bolsas de Estudo 2016</a> 
-            </li>
-            <li>
-              <a href="images/portugal_day_sponsors_2016.jpg">Portugal Day Sponsors 2016</a> 
-            </li>
-            <li>
               <a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 
             </li>
             <li>

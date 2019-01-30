@@ -14,9 +14,6 @@
     <li class="<? if ($page == "function_hall") { echo "active"; } ?>">
       <a href="function_hall.php"><span class="menu-text">Function Hall</span></a>
     </li>
-    <li class="<? if ($page == "gallery") { echo "active"; } ?>">
-      <a href="NewGallery/page/gallery/"><span class="menu-text">Picture Gallery</span></a>
-    </li>
     <li class="<? if ($page == "palmeira") { echo "active"; } ?>">
       <a href="palmeira.php"><span class="menu-text">Palmeira <span class="hidden-md">Quarterly</span> Newsletter</span></a>
     </li>

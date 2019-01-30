@@ -14,7 +14,7 @@
         </div>
 
         <?
-          $latestVersion = array("name" => "January 2018", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2019", "thumbnail" => "images/palmeira_thumbs/jan2019_thumb.jpg");
+          $latestVersion = array("name" => "January 2019", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2019", "thumbnail" => "images/palmeira_thumbs/jan2019_thumb.jpg");
           $oldVersions = [
             array("name" => "October 2018", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeiraoctober2018", "thumbnail" => "images/palmeira_thumbs/oct2018_thumb.jpg"),
             array("name" => "July 2018", "url" => "https://issuu.com/palmcoastportugueseclub/docs/palmeira_july_2018", "thumbnail" => "images/palmeira_thumbs/july2018_thumb.jpg"),
