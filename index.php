@@ -21,7 +21,7 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajaneiro2019">Palmeira Quarterly Newsletter - January 2019</a></b>
+              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2019">Palmeira Quarterly Newsletter - April 2019</a></b>
             </li>
             <li>
               <b><a href="board.php">2019 Corpos Gerentes</a></b>
