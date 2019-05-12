@@ -21,6 +21,9 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
+              <b><a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a></b>
+            </li>
+            <li>
               <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2019">Palmeira Quarterly Newsletter - April 2019</a></b>
             </li>
             <li>
