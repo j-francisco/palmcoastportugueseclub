@@ -21,13 +21,16 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a></b>
+              <b><a href="files/scholarship_app_2019.pdf">Scholarship Application 2019</a></b>
             </li>
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2019">Palmeira Quarterly Newsletter - April 2019</a></b>
+              <a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a>
             </li>
             <li>
-              <b><a href="board.php">2019 Corpos Gerentes</a></b>
+              <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeira_april_2019">Palmeira Quarterly Newsletter - April 2019</a>
+            </li>
+            <li>
+              <a href="board.php">2019 Corpos Gerentes</a>
             </li>
             <li>
               <a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 
