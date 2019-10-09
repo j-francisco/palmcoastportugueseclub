@@ -70,6 +70,9 @@
               <a href="https://www.coldwellbankerhomes.com/fl/palm-coast/agent/dina-branquinho/aid_200591/">Dina Branquinho - Coldwell Banker</a>
             </li>
             <li>
+              <a href="http://www.applywithjen.com/">Envoy Mortgage</a>
+            </li>
+            <li>
               <a href="Resendes.pdf">FED-USA Seguros</a>
             </li>
             <li>
@@ -95,6 +98,9 @@
             </li>
             <li>
               <a href="http://www.lusoconcerto.com">Luso Concerto</a>
+            </li>
+            <li>
+              <a href="https://www.mancavepalmcoast.com">Man Cave</a>
             </li>
             <li>
               Millenium Grocery
