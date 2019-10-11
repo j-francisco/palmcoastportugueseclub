@@ -67,9 +67,6 @@
               <a href="http://www.craigflaglerpalms.com">Craig Flagler Palms Funeral Home & Cemetery</a>
             </li>
             <li>
-              <a href="https://www.coldwellbankerhomes.com/fl/palm-coast/agent/dina-branquinho/aid_200591/">Dina Branquinho - Coldwell Banker</a>
-            </li>
-            <li>
               <a href="http://www.applywithjen.com/">Envoy Mortgage</a>
             </li>
             <li>
@@ -92,12 +89,6 @@
             </li>
             <li>
               <a href="http://www.fortunegroupproperties.com/Joe-Barra/">Joe Barra - Fortune Group Properties</a>
-            </li>
-            <li>
-              <a href="https://www.kumon.com/palm-coast">Kumon Math and Reading Center of Palm Coast</a>
-            </li>
-            <li>
-              <a href="http://www.lusoconcerto.com">Luso Concerto</a>
             </li>
             <li>
               <a href="https://www.mancavepalmcoast.com">Man Cave</a>
