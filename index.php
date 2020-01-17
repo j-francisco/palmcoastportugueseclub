@@ -48,8 +48,8 @@
 
           <p>
             <h4>New Membership Applications:</h4>
-            <div><a href="files/MembershipApplicationEnglish.doc">Download English Version</a></div>
-            <div><a href="files/MembershipApplicationPortuguese.doc">Download Portuguese Version</a></div>
+            <div><a href="files/MembershipApplicationEnglish.pdf">Download English Version</a></div>
+            <div><a href="files/MembershipApplicationPortuguese.pdf">Download Portuguese Version</a></div>
           </p>
         </div>
       </div>
