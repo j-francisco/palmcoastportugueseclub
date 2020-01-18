@@ -21,13 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoct2019">Palmeira Quarterly Newsletter - October 2019</a></b>
+              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a></b>
             </li>
             <li>
-              <b><a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a></b>
+              <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
             </li>
             <li>
-              <b><a href="files/scholarship_app_2019.pdf">Scholarship Application 2019</a></b>
+              <a href="files/scholarship_app_2019.pdf">Scholarship Application 2019</a>
             </li>
             <li>
               <a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a>
