@@ -18,10 +18,6 @@
           
           <div class="board-img-container">
             <img src="images/corpos_gerentes_2020.jpg" alt="Board of Directors" class="board-img" />
-            <img src="images/Board/Slide1.JPG" alt="Board of Directors" class="board-img" />
-            <img src="images/Board/Slide2.JPG" alt="Board of Directors" class="board-img" />
-            <img src="images/Board/Slide3.JPG" alt="Board of Directors" class="board-img" />
-            <img src="images/Board/Slide4.JPG" alt="Board of Directors" class="board-img" />
           </div>
         </div>
       </div>
