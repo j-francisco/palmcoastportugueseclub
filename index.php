@@ -24,6 +24,9 @@
               <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a></b>
             </li>
             <li>
+              <b><a href="board.php">2020 Corpos Gerentes</a></b>
+            </li>
+            <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
             </li>
             <li>
@@ -31,9 +34,6 @@
             </li>
             <li>
               <a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a>
-            </li>
-            <li>
-              <a href="board.php">2019 Corpos Gerentes</a>
             </li>
             <li>
               <a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 
