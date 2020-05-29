@@ -21,10 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a></b>
+              <b><a href="files/GeneralAssemblyNotice2020.pdf">Regular General Assembly Postponed</a></b>
             </li>
             <li>
-              <b><a href="board.php">2020 Corpos Gerentes</a></b>
+              <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a>
+            </li>
+            <li>
+              <a href="board.php">2020 Corpos Gerentes</a>
             </li>
             <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
