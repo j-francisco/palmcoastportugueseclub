@@ -21,7 +21,7 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/GeneralAssemblyNotice2020.pdf">Regular General Assembly Postponed</a></b>
+              <b><a href="files/Assembleia22Julho2020.pdf">Regular General Assembly - July 22nd, 2020 at 8:00pm</a></b>
             </li>
             <li>
               <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a>
