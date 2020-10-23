@@ -21,7 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/Assembleia22Julho2020.pdf">Regular General Assembly - July 22, 2020 at 8:00pm</a></b>
+              <b><a href="files/GeneralAssemblyDec16_2020.pdf">Regular General Assembly - December 16</a></b>
+            </li>
+            <li>
+              <a href="files/Elections2020.pdf">Aviso/Notice - Elections 2020</a>
+            </li>
+            <li>
+              <a href="files/scholarship_app_2020.pdf">Scholarship Application 2020</a>
             </li>
             <li>
               <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeirajan2020">Palmeira Quarterly Newsletter - January 2020</a>
@@ -31,15 +37,6 @@
             </li>
             <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
-            </li>
-            <li>
-              <a href="files/scholarship_app_2019.pdf">Scholarship Application 2019</a>
-            </li>
-            <li>
-              <a href="files/PortugalDaySponsor2019.pdf">Portugal Day 2019</a>
-            </li>
-            <li>
-              <a href="files/consulado_de_portugal.pdf">Consulado de Portugal em Palm Coast</a> 
             </li>
             <li>
               <a href="bylaws.php">Estatutos 2012</a> 
