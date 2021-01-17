@@ -17,7 +17,7 @@
           <h2 class="page-heading">Board of Directors</h2>
           
           <div class="board-img-container">
-            <img src="images/corpos_gerentes_2020.jpg" alt="Board of Directors" class="board-img" />
+            <img src="images/corpos_gerentes_2021.jpg" alt="Board of Directors" class="board-img" />
           </div>
         </div>
       </div>
