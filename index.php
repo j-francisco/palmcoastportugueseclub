@@ -21,19 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="board.php">2021 Corpos Gerentes</a></b>
+              <b><a href="files/ScholarshipApplication2021.pdf">Scholarship Application 2021</a></b>
+            </li>
+            <li>
+              <a href="board.php">2021 Corpos Gerentes</a>
             </li>
             <li>
               <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoctober2020">Palmeira Quarterly Newsletter - October 2020</a>
-            </li>
-            <li>
-              <a href="files/GeneralAssemblyDec16_2020.pdf">Regular General Assembly - December 16</a>
-            </li>
-            <li>
-              <a href="files/Elections2020.pdf">Aviso/Notice - Elections 2020</a>
-            </li>
-            <li>
-              <a href="files/scholarship_app_2020.pdf">Scholarship Application 2020</a>
             </li>
             <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
