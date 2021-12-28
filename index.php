@@ -21,7 +21,10 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/ScholarshipApplication2021.pdf">Scholarship Application 2021</a></b>
+              <b><a href="files/Assembleia12Janeiro2022.pdf">General Assembly January 2022</a></b>
+            </li>  
+            <li>
+              <a href="files/Elections2021.pdf">Board of Directors Elections 2021</a>
             </li>
             <li>
               <a href="board.php">2021 Corpos Gerentes</a>
