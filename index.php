@@ -21,10 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/Assembleia12Janeiro2022.pdf">General Assembly January 2022</a></b>
-            </li>  
+              <b><a href="files/PortugalDay2022Flyer.pdf">Portugal Day 2022</a></b>
+            </li>
             <li>
-              <a href="files/Elections2021.pdf">Board of Directors Elections 2021</a>
+              <b><a href="files/PortugalDay2022SponsorInfo.pdf">Portugal Day 2022 Sponsor Info</a></b>
+            </li>
+            <li>
+              <b><a href="files/PortugalDaySponsor2022Form.pdf">Portugal Day 2022 Sponsor Form</a></b>
             </li>
             <li>
               <a href="board.php">2021 Corpos Gerentes</a>
