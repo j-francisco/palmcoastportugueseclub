@@ -21,13 +21,10 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/AssembleiaDezembro2022.pdf">General Assembly - December 2022</a></b>
+              <b><a href="board.php">2021 Corpos Gerentes</a></b>
             </li>
             <li>
-              <b><a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoutubro2022">Palmeira Quarterly Newsletter - October 2022</a></b>
-            </li>
-            <li>
-              <a href="board.php">2021 Corpos Gerentes</a>
+              <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoutubro2022">Palmeira Quarterly Newsletter - October 2022</a>
             </li>
             <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
