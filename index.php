@@ -21,13 +21,10 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-                <b><a href="files/PAES2024Application.pdf">PAES 2024 Scholarship Application</a></b>
-              </li>  
-            <li>
-              <a href="images/PortugalDaySponsors2024.jpg">2024 Portugal Day Sponsors</a>
+              <b><a href="board.php">2025 Corpos Gerentes</a></b>
             </li>
             <li>
-              <a href="files/board_of_directors_2024.pdf">2024 Corpos Gerentes</a>
+              <a href="images/PortugalDaySponsors2024.jpg">2024 Portugal Day Sponsors</a>
             </li>
             <li>
               <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoutubro2022">Palmeira Quarterly Newsletter - October 2022</a>
