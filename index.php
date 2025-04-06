@@ -21,7 +21,10 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="board.php">2025 Corpos Gerentes</a></b>
+              <b><a href="images/2025Events.JPG">2025 Events</a></b>
+            </li>  
+            <li>
+              <a href="board.php">2025 Corpos Gerentes</a>
             </li>
             <li>
               <a href="images/PortugalDaySponsors2024.jpg">2024 Portugal Day Sponsors</a>
