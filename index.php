@@ -21,8 +21,11 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="images/2025Events.JPG">2025 Events</a></b>
-            </li>  
+              <b><a href="images/June2025Festival.jpeg">Festival Fim de Semana de Portugal</a></b>
+            </li>
+            <li>
+              <b><a href="files/2025Events.pdf">2025 Events (May update)</a></b>
+            </li>
             <li>
               <a href="board.php">2025 Corpos Gerentes</a>
             </li>
