@@ -21,7 +21,10 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="images/June2025Festival.jpeg">Festival Fim de Semana de Portugal</a></b>
+              <b><a href="files/2025GolfClassic.pdf">14th Golf Classic - Info and Registration Form</a></b>
+            </li>  
+            <li>
+              <b><a href="images/PAES_Scholarship_2025.jpg">PAES Scholarship Information</a></b>
             </li>
             <li>
               <b><a href="files/2025Events.pdf">2025 Events (May update)</a></b>
