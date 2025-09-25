@@ -14,17 +14,11 @@
     <li class="<? if ($page == "function_hall") { echo "active"; } ?>">
       <a href="function_hall.php"><span class="menu-text">Function Hall</span></a>
     </li>
-    <li class="<? if ($page == "palmeira") { echo "active"; } ?>">
-      <a href="palmeira.php"><span class="menu-text">Palmeira <span class="hidden-md">Quarterly</span> Newsletter</span></a>
-    </li>
     <li class="<? if ($page == "golf") { echo "active"; } ?>">
       <a href="golf.php"><span class="menu-text">Golf Classic</span></a>
     </li>
     <li class="<? if ($page == "bylaws") { echo "active"; } ?>">
       <a href="bylaws.php"><span class="menu-text">Bylaws</span></a>
-    </li>
-    <li class="<? if ($page == "links") { echo "active"; } ?>">
-      <a href="links.php"><span class="menu-text">Links</span></a>
     </li>
   </ul>
 </div>

@@ -36,9 +36,6 @@
               <a href="images/PortugalDaySponsors2024.jpg">2024 Portugal Day Sponsors</a>
             </li>
             <li>
-              <a href="https://issuu.com/palmcoastportugueseclub/docs/palmeiraoutubro2022">Palmeira Quarterly Newsletter - October 2022</a>
-            </li>
-            <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
             </li>
             <li>

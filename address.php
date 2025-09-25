@@ -4,8 +4,8 @@
   <div>1200 Palm Harbor Parkway</div>
   <div>Palm Coast, FL 32137</div>
   <div>TEL: 386-446-3910</div>
-  <div>FAX: 386-446-5155</div>
-  <div><a href="https://www.google.com/maps/place/1200+Palm+Harbor+Pkwy,+Palm+Coast,+FL+32137/@29.5832076,-81.218561,17z/data=!3m1!4b1!4m2!3m1!1s0x88e6942f1f591937:0x30d817836defdf75">
+  <div><a href="https://www.facebook.com/profile.php?id=100049982291425">Facebook</a></div>
+  <div><a href="https://maps.app.goo.gl/DYqdmG2dQ8MMRcqY9">
       Get Directions
     </a>
   </div>
