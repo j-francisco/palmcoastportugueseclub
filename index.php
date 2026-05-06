@@ -21,19 +21,13 @@
           <h4>News</h4>
           <ul class="news-list">
             <li>
-              <b><a href="files/2025GolfClassic.pdf">14th Golf Classic - Info and Registration Form</a></b>
+              <b><a href="files/PortugalDay2026.pdf">Portugal Day 2026</a></b>
             </li>  
             <li>
-              <b><a href="images/PAES_Scholarship_2025.jpg">PAES Scholarship Information</a></b>
-            </li>
-            <li>
-              <b><a href="files/2025Events.pdf">2025 Events (May update)</a></b>
+              <a href="images/PAES_Scholarship_2025.jpg">PAES Scholarship Information</a>
             </li>
             <li>
               <a href="board.php">2025 Corpos Gerentes</a>
-            </li>
-            <li>
-              <a href="images/PortugalDaySponsors2024.jpg">2024 Portugal Day Sponsors</a>
             </li>
             <li>
               <a href="files/PortugueseSchoolRegistrationForm.pdf">Portuguese Class Registration</a>
